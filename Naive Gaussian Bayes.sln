@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Naive Gaussian Bayes", "Naive Gaussian Bayes\Naive Gaussian Bayes.pyproj", "{AD10E4A7-46EF-4F82-94EF-B3C6BA4604E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD10E4A7-46EF-4F82-94EF-B3C6BA4604E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD10E4A7-46EF-4F82-94EF-B3C6BA4604E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55F24C6B-CA21-4E66-9848-EC48B0F36476}
+	EndGlobalSection
+EndGlobal
